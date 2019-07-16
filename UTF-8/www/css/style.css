@@ -1,0 +1,50 @@
+body {
+	font-family: "Franklin Gothic";
+	background-image: url(../images/Bitmap.png);
+	background-repeat: no-repeat;
+	background-position: top -1px right -20px;
+	background-color: #141b23;
+	margin: 0;
+}
+.header{
+	padding-top: 65px;
+	padding-left: 55px;
+}
+.text-title{
+	width: 156px;
+    height: 18px;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+	padding-top: 71px;
+	padding-left: 96px;
+	
+}
+.main-text{
+	width: 467px;
+    height: 230px;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 15.6px;
+	padding-top: 10px;
+	padding-left: 95px;
+	
+}
+.p{
+	color: #ffffff;	
+}
+.copyright{
+	width: 124px;
+    height: 9px;
+    opacity: 0.27;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.4px;
+	
+}
