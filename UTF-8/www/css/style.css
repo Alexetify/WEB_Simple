@@ -6,9 +6,13 @@ body {
 	background-color: #141b23;
 	margin: 0;
 }
+.container{
+    width: 1000px;
+}
 .header{
 	padding-top: 65px;
 	padding-left: 55px;
+    margin-bottom: 71px;
 }
 .text-title{
 	width: 156px;
@@ -18,8 +22,7 @@ body {
     font-size: 25px;
     font-weight: 500;
     line-height: 30px;
-	padding-top: 71px;
-	padding-left: 96px;
+	margin-bottom: 10px;
 	
 }
 .main-text{
@@ -30,8 +33,7 @@ body {
     font-size: 13px;
     font-weight: 500;
     line-height: 15.6px;
-	padding-top: 10px;
-	padding-left: 95px;
+    margin-bottom: 198px;
 	
 }
 .p{
@@ -47,4 +49,14 @@ body {
     font-weight: 500;
     line-height: 14.4px;
 	
+}
+.nav__link{
+    text-decoration: none;
+    width: 235px;
+    height: 15px;
+    opacity: 0.87;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    color: #b1bbcb;
+    font-size: 15px;
+    font-weight: 500;
 }
