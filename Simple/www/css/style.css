@@ -13,6 +13,11 @@ body {
 	padding-top: 65px;
 	padding-left: 55px;
 }
+.header-wrap{
+	display: flex;
+    justify-content: space-between;
+    align-items: center;	
+	}
 .Logo{
 	font-size: 24px;
 	font-weight: 500px;
@@ -29,6 +34,7 @@ body {
     font-size: 15px;
     font-weight: 500;
 	margin-bottom: 71px;
+	margin-left: 18px;
 	margin-right: 18px;
 }
 .nav__link:hover{
