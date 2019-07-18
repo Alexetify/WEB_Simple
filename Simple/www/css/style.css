@@ -1,0 +1,83 @@
+body {
+	font-family: "Franklin Gothic";
+	background-image: url(../images/Bitmap.png);
+	background-repeat: no-repeat;
+	background-position: top -1px right -20px;
+	background-color: #141b23;
+	margin: 0;
+}
+.container{
+	margin: auto;
+}
+.header{
+	padding-top: 65px;
+	padding-left: 55px;
+}
+.header-wrap{
+	display: flex;
+    justify-content: space-between;
+    align-items: center;	
+	}
+.Logo{
+	font-size: 24px;
+	font-weight: 500px;
+	opacity: 0.87;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    color: #b1bbcb;
+	margin-bottom: 71px;
+	margin-right: 20px;
+}
+.nav__link{
+    opacity: 0.87;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    color: #b1bbcb;
+    font-size: 15px;
+    font-weight: 500;
+	margin-bottom: 71px;
+	margin-left: 18px;
+	margin-right: 18px;
+}
+.nav__link:hover{
+	opacity: 0.87;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    color: #b1bbcb;
+    font-size: 15px;
+    font-weight: 500;
+	margin-bottom: 71px;
+	margin-right: 18px;
+	text-decoration: none;
+}
+.text-title{
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+	margin-bottom: 10px;
+	margin-left: 95px;
+	
+}
+.main-text{
+	max-width: 467px;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 15.6px;
+	margin-bottom: 198px;
+	margin-left: 95px;
+	
+}
+.p{
+	color: #ffffff;	
+}
+.copyright{
+    opacity: 0.27;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 14.4px;
+	margin-bottom: 50px;
+	margin-left: 54px;
+}
